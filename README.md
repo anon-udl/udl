@@ -1,4 +1,4 @@
-# udl
+# Extending Bayesian Deep Learning with Image Data
 
 ![img](./mini-project/fig1_margin_sampling.png)
 
