@@ -1,0 +1,7 @@
+slides/*
+venv
+A1*
+data
+.DS_Store
+practicals/
+*.pyc
